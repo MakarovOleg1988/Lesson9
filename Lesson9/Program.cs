@@ -36,7 +36,6 @@ namespace Lesson9
                     default: break;
                 }
             }
-
         }
 
         enum MyFirstEnum : byte //(значения с 0 до 255)
